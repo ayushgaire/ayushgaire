@@ -14,7 +14,11 @@ I'm pursuing a **B.S. in Computer Science at Southwest Minnesota State Universit
 
 ### Nepal Disaster
 
-[Visit website](https://www.nepaldisaster.com/)
+A disaster-information platform for Nepal with live data, flood alerts, and a bilingual interface.
+
+**My contribution:** As a software engineer and founder of **Codyza**, a developer-collaboration community, I helped shape the live-data pipeline, flood-alert system, and bilingual interface—focused on delivering usable software that helps people access information when it matters most.
+
+[Visit Nepal Disaster](https://www.nepaldisaster.com/) · [My portfolio](https://ayushgaire.com/)
 
 ## Languages and tools
 
