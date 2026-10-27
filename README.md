@@ -12,11 +12,9 @@ I'm pursuing a **B.S. in Computer Science at Southwest Minnesota State Universit
 
 ## Featured project
 
-### 🌾 FarmFix
+### Nepal Disaster
 
-A modern farm maintenance management platform built with **Next.js and Supabase**.
-
-[View source code](https://github.com/ayushgaire/-farmfix-memory) · [Live demo](https://farmfix-memory-zeta.vercel.app)
+[Visit website](https://www.nepaldisaster.com/)
 
 ## Languages and tools
 
@@ -28,8 +26,7 @@ A modern farm maintenance management platform built with **Next.js and Supabase*
 
 ## More of my work
 
-- [Codyza Quest](https://github.com/ayushgaire/codyza-quest)
-- [ResumeForge AI](https://github.com/ayushgaire/resumeforge-ai)
+- [Namaste Kalika](https://www.namastekalika.com/)
 - [The Basic Game](https://github.com/ayushgaire/thebasicgame)
 
 ## Let's connect
