@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Ayush Gaire — Full-stack web developer</title>
+  <desc id="desc">Next.js, React, TypeScript, and Supabase. Open to internships and co-op opportunities.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101426"/><stop offset="1" stop-color="#242046"/></linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M 36 0 H 0 V 36" fill="none" stroke="#ffffff" stroke-opacity=".035"/></pattern>
+  </defs>
+  <rect width="1200" height="300" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="20" fill="url(#grid)"/>
+  <rect x="52" y="48" width="4" height="204" rx="2" fill="#a78bfa"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="80" y="78" font-size="13" letter-spacing="3" fill="#c4b5fd">FULL-STACK WEB DEVELOPER</text>
+    <text x="77" y="151" font-size="62" font-weight="700" letter-spacing="-2" fill="#f8fafc">AYUSH GAIRE</text>
+    <text x="80" y="193" font-size="21" fill="#cbd5e1">Next.js / React / TypeScript / Supabase</text>
+    <circle cx="86" cy="237" r="5" fill="#6ee7b7"/>
+    <text x="102" y="242" font-size="15" fill="#d1fae5">Open to internships &amp; co-op opportunities</text>
+    <text x="910" y="170" font-size="94" font-weight="700" fill="#a78bfa" opacity=".8">&lt;/&gt;</text>
+  </g>
+</svg>
